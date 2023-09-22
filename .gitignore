@@ -2,6 +2,7 @@
 .vscode/*
 cpf.tar.gz
 /.public_sync/
+/.yaqcs/
 
 
 # extra ignores for the public repo
